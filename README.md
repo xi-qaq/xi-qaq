@@ -1,6 +1,11 @@
 ### Hi , I am Xi 👋~~
 welcome to my blog: https://xi-qaq.github.io/archives/
 
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=xi-qaq&show_icons=true)
+
+
 <!--
 **xi-qaq/xi-qaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
