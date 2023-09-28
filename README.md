@@ -1,7 +1,5 @@
 ### Hi , I am Xi 👋~~
-welcome to my blog: https://xi-qaq.github.io/archives/
 
-I am a newbie here and lack of experience in using Github and Github's blog, I will very glad if you can give me some advice. 😊
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xi-qaq&show_icons=true)
 
